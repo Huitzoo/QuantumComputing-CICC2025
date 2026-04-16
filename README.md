@@ -67,7 +67,7 @@ Se desarrollaron **dos arquitecturas cuánticas parametrizadas (ansätze)**, amb
 
 | Circuito | Precisión | Dataset | Kernel Alignment |
 |-----------|------------|----------|------------------|
-| Circuito A | **0.90** | Features médicas | 0.88 |
-| Circuito B | 0.83 | PCA (4 comps) | 0.79 |
+| Circuito A | **0.90** | Features médicas | 0.735 |
+| Circuito B | 0.8860 | PCA (4 comps) | 0.6365 |
 
 ![Resultado Final](resultado_final.png)
